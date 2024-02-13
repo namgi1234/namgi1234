@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20Namki's%20GitHub&fontSize=60&descAlign=41&descAlignY=38&section=header&reversal=true&descSize=20&fontAlign=50)
-
 ## Introduction
 - 👋 Hi, I’m Namki Kwon(@namgi1234)
 - 👀 I’m interested in programming and math ...
