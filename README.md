@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning js and python...
 
   
-![github state](https://github-readme-stats.vercel.app/api?username=namgi1234&show)
+![github state](https://github-readme-stats.vercel.app/api?username=namgi1234&show)  <a href="https://opgc.me/#/users/namgi1234" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/namgi1234/tag/?theme=basic" /></a>
